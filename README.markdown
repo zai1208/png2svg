@@ -4,4 +4,4 @@ Converts PNG images to SVG.
 
 ## Usage
 
-    png2svg input.png > output.svg
+    python png2svg.py input.png  output.svg
